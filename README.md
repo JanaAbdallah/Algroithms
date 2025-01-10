@@ -29,11 +29,13 @@ The repository includes the following algorithms:
 ### Usage
 1. Clone the repository:
    git clone https://github.com/JanaAbdallah/Algorithms-in-C.git
+   
    cd Algorithms-in-C
 
-2. Compile any of the C files using a compiler:
+3. Compile any of the C files using a compiler:
    gcc -o output Closest_pair.c
+   
    ./output
 
 
-3. Repeat the above steps for the desired algorithm files.
+4. Repeat the above steps for the desired algorithm files.
