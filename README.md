@@ -1,6 +1,6 @@
-# Algorithms in C
+# Algorithms in C++
 
-This repository contains a collection of algorithms implemented in C. These programs cover various fundamental and advanced concepts, serving as examples for understanding and applying algorithmic techniques.
+This repository contains a collection of algorithms implemented in C++. These programs cover various fundamental and advanced concepts, serving as examples for understanding and applying algorithmic techniques.
 
 ## Folder Structure
 
@@ -24,18 +24,18 @@ The repository includes the following algorithms:
 ## Getting Started
 
 ### Prerequisites
-- A C compiler (e.g., GCC) installed on your system.
+- A C++ compiler (e.g., G++) installed on your system.
 
 ### Usage
 1. Clone the repository:
    
-   git clone https://github.com/JanaAbdallah/Algorithms-in-C.git
+   git clone https://github.com/JanaAbdallah/Algorithms.git
    
-   cd Algorithms-in-C
+   cd Algorithms
 
-3. Compile any of the C files using a compiler:
+3. Compile any of the C++ files using a compiler:
    
-   gcc -o output Closest_pair.c
+   g++ -o output Closest_pair.cpp
    
    ./output
 
